@@ -1,0 +1,12 @@
+# Release credentials and local output must never enter this public repository.
+.DS_Store
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.mobileprovision
+credentials/
+private/
+*.xcarchive/
+*.ipa
